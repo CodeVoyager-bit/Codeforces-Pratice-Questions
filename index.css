@@ -1,0 +1,69 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  section {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
+  
+  /* 1. Descendant Selector (styles all list items within the div "tree") */
+  .tree ul li {
+    color: green;
+    font-weight: bold;
+  }
+  
+  /* 2. Child Selector (styles only direct children of "complex") */
+  .complex > p {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  /* 3. General Sibling Selector (styles all siblings of the h3 in "neighborhood") */
+  .neighborhood h3 ~ p {
+    color: purple;
+    font-style: italic;
+  }
+  
+  /* 4. Adjacent Sibling Selector (styles the paragraph directly after h3) */
+  .alleyway h3 + p {
+    color: orange;
+    font-weight: bold;
+  }
+  
+  /* 5. Pseudo Classes */
+  .playground a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  
+  .playground button:active {
+    background-color: #333;
+    color: white;
+  }
+  
+  /* 6. Pseudo Elements */
+  .newspaper p::first-line {
+    font-weight: bold;
+    color: darkblue;
+  }
+  
+  .newspaper p::first-letter {
+    font-size: 2em;
+    color: darkred;
+  }
+  
+  /* Extras */
+  a:visited {
+    color: darkgray;
+  }
+ 

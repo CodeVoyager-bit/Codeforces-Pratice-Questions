@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSS City Adventure - Selectors Lab</title>
+
+<link rel="stylesheet" href="index.css"/>
+</head>
+<body>
+
+<h1>Welcome to CSS City</h1>
+<p>This is an interactive tour of CSS selectors. Explore each section to see how selectors affect the elements in CSS City.</p>
+
+<!-- Descendant Selector Section -->
+<section class="park">
+  <h2>1. Descendant Selector - Family Park</h2>
+  <div class="tree">
+    <p>Tree (div) contains children</p>
+    <ul>
+      <li>First Child - Grandchild</li>
+      <li>Second Child - Grandchild</li>
+      <li><ul>
+        <li>Third Child - Grand-grand-child</li>
+        <li>Fourth Child - Grand-grand-child</li>
+      </ul></li>
+    </ul>
+  </div>
+</section>
+
+<!-- Child Selector Section -->
+<section class="apartment">
+  <h2>2. Child Selector - Apartment Complex</h2>
+  <div class="complex">
+    <p>Direct child tenant</p>
+    <div>
+      <p>Nested child tenant</p>
+    </div>
+  </div>
+</section>
+
+<!-- General Sibling Selector Section -->
+<section class="neighborhood">
+  <h2>3. General Sibling Selector - Neighbor Street</h2>
+  <h3>Starting Point (h3)</h3>
+  <p>Neighbor 1</p>
+  <p>Neighbor 2</p>
+  <p>Neighbor 3</p>
+  <div>
+    <p>Neighbor 4</p>
+  </div>
+</section>
+
+<!-- Adjacent Sibling Selector Section -->
+<section class="alleyway">
+  <h2>4. Adjacent Sibling Selector - Direct Neighbors</h2>
+  <h3>Title (h3)</h3>
+  <p>Direct neighbor</p>
+  <p>Another neighbor</p>
+</section>
+
+<!-- Pseudo Classes Section -->
+<section class="playground">
+  <h2>5. Interactive Playground - Pseudo Classes</h2>
+  <a href="#">Hover over me!</a>
+  <button>Click me!</button>
+</section>
+
+<!-- Pseudo Elements Section -->
+<section class="newspaper">
+  <h2>6. CSS City Newspaper - Pseudo Elements</h2>
+  <p>This is the first paragraph in the article. It contains important information.</p>
+  <p>This is the second paragraph, continuing the story.</p>
+</section>
+
+</body>
+</html>
