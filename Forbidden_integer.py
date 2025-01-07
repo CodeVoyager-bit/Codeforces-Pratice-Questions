@@ -61,6 +61,7 @@
 # 7
 # NO
 
+# This is the code
 
 for i in range(int(input())):
     n,m,x=map(int,input().split())
