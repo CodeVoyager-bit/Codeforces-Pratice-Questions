@@ -23,10 +23,7 @@
 #  (1≤𝑛≤100
 # ).
 
-# The second line of each test case contains 𝑛
-#  integers 𝑎1,𝑎2,…,𝑎𝑛
-#  (1≤𝑎𝑖≤109
-# ).
+# The second line of each test case contains 𝑛 integers 𝑎1,𝑎2,…,𝑎𝑛 (1≤𝑎𝑖≤10^9).
 
 # Output
 # For each test case print an integer, the minimum number of operations required to form a good array.
