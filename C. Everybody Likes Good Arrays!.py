@@ -1,5 +1,4 @@
 # this is the question
-
 # An array 𝑎
 #  is good if for all pairs of adjacent elements, 𝑎𝑖
 #  and 𝑎𝑖+1
