@@ -6,7 +6,6 @@
 # ) are of different parity. Note that an array of size 1 is trivially good.
 # You are given an array of size 𝑛.
 # In one operation you can select any pair of adjacent elements in which both elements are of the same parity, delete them, and insert their product in the same position.
-
 # Find the minimum number of operations to form a good array.
 
 # Input
