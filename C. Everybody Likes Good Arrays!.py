@@ -13,9 +13,7 @@
 #  (1≤𝑡≤500
 # ). The description of the test cases follows.
 
-# The first line of each test case contains an integer 𝑛
-#  (1≤𝑛≤100
-# ).
+# The first line of each test case contains an integer 𝑛(1≤𝑛≤100).
 
 # The second line of each test case contains 𝑛 integers 𝑎1,𝑎2,…,𝑎𝑛 (1≤𝑎𝑖≤10^9).
 
