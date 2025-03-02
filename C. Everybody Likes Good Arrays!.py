@@ -10,8 +10,7 @@
 
 # Input
 # Each test contains multiple test cases. The first line contains the number of test cases 𝑡
-#  (1≤𝑡≤500
-# ). The description of the test cases follows.
+#  (1≤𝑡≤500). The description of the test cases follows.
 
 # The first line of each test case contains an integer 𝑛(1≤𝑛≤100).
 
