@@ -17,7 +17,7 @@
 # For each test case print an integer, the minimum number of operations required to form a good array.
 
 # Example
-# InputCopy
+# Input
 # 3
 # 5
 # 1 7 11 2 13
