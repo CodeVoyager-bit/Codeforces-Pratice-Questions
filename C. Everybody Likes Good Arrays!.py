@@ -31,8 +31,7 @@
 # 0
 # 3
 # Note
-# Consider the first test case. Select the 2
-# -nd and the 3
+# Consider the first test case. Select the 2-nd and the 3
 # -rd integers and apply the operation on them. The array changes from [1,7,11,2,13]
 #  to [1,77,2,13]
 # . Next, select the 1
