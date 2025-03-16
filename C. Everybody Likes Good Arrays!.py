@@ -34,8 +34,7 @@
 # . Next, select the 1-st and the 2-nd integers, array changes from [1,77,2,13] to [77,2,13]. Thus we require 2
 #  operations. It can be proved that this is the minimum number of operations.
 
-# In the second test case, the given array is already good. So we require 0
-#  operations.
+# In the second test case, the given array is already good. So we require 0 operations.
 
 
 # this is the solution
