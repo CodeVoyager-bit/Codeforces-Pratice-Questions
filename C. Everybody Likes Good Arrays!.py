@@ -1,4 +1,4 @@
-# this is the question
+# This is the question
 # An array 𝑎 is good if for all pairs of adjacent elements, 𝑎𝑖
 #  and 𝑎𝑖+1(1≤𝑖<𝑛) are of different parity. Note that an array of size 1 is trivially good.
 # You are given an array of size 𝑛.
