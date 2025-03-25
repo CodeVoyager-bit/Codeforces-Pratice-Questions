@@ -14,8 +14,7 @@
 
 # Input
 # First line of input contains a single integer t, denoting number of test cases. Each testcase consist of two lines. First line of each test case is an integer N, denoting length of string and second line contains a String of upper- and lower-case English alphabets (1≤𝑡≤100
-#  and 1≤𝑁≤1000
-# ).
+#  and 1≤𝑁≤1000).
 
 # Output
 # For each testcase, output two lines. First line contains size of modified letter and second line contains modified letter of Raj in new line.
